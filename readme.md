@@ -1,4 +1,4 @@
-This implementation is a simplified version of Nethack game.   
+This implementation is a simplified version of Nethack game with python.   
 The main implementation is pyhack.py file.
 To try the game run main.py.
 
